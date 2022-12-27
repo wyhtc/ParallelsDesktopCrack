@@ -1,6 +1,0 @@
-[submodule "Dobby"]
-	path = Dobby
-	url = https://github.com/jmpews/Dobby
-[submodule "deps/Dobby"]
-	path = deps/Dobby
-	url = https://github.com/jmpews/Dobby
